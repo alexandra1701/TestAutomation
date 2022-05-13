@@ -1,0 +1,20 @@
+#Eclipse project files
+.classpath
+.project
+.settings
+.gradle
+.dbeaver
+
+# IntelliJ project files
+*.iml
+.idea
+
+#binary directories
+bin
+target
+lib
+out
+
+.class
+pom.xml.versionsBackup
+/.gradle/
